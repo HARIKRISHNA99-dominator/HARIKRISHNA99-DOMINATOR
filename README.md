@@ -1,7 +1,7 @@
 ### HeY There I'M Hari Krishna!! 👋
 
 
-<h2>I always tend towards technology where I get aspired to find Innovative ideas to make a great commitment to a change in the Society!</h2>
+<h2>I always tend towards technology where I get aspired to find Innovative ideas to make great commitment to a change in the Society!</h2>
 
 
 - 🔭 I’m currently working on Data Analysis & Web Technology!
