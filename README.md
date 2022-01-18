@@ -13,7 +13,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hari krishna p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari krishna p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hari-krishna-p-b501b51b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari krishna p" height="30" width="40" /></a>
 <a href="https://kaggle.com/hari krishna p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hari krishna p" height="30" width="40" /></a>
 <a href="https://fb.com/hari krishna p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hari krishna p" height="30" width="40" /></a>
 <a href="https://instagram.com/harry_freak_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry_freak_99" height="30" width="40" /></a>
