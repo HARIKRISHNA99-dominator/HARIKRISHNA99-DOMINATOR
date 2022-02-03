@@ -1,6 +1,6 @@
 <h1 align="center"> HeY There I'M Hari Krishna!! 👋</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theathleticnerd.theathleticnerd)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HARIKRISHNA99-dominator.HARIKRISHNA99-dominator)
 
 
 <h2>I always tend towards technology where I get aspired to find Innovative ideas to make great commitment to a change in the Society!</h2>
