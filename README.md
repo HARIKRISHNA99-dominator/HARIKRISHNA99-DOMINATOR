@@ -1,6 +1,6 @@
 <h1 align="center"> HeY There I'M Hari Krishna!! 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=HARIKRISHNA99-dominator&style=flat-square&label=View%20Count%20ON%20My%20Repo)
+![](https://komarev.com/ghpvc/?username=HARIKRISHNA99-dominator&style=flat-square&label=View%20Count)
 
 
 
