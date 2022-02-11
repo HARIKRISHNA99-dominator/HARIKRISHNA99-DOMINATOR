@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I Just Wander Away with technologies sometimes!
 - 💬 Ask me about Basic queries,app developments,web developments,itc...
 <hr>
-<h3 align="left">Ping Me!</h3>
+<h3 align="left">Ping Me On!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hari-krishna-p-b501b51b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari krishna p" height="30" width="40" /></a>
  <a href="https://www.instagram.com/harry_freak_99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry_freak_99" height="30" width="40" /></a>
